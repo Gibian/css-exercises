@@ -1,0 +1,19 @@
+.odds {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#ni {
+    color: blue;
+    font-size: 36px;
+}
+
+#yon,
+.odds.san {
+    font-size: 24px;
+}
+
+#yon {
+    background-color: lightgreen;
+    font-weight: 700;
+}
